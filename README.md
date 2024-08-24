@@ -2,7 +2,7 @@
 
 This is a sample code to execute commands in series.
 To add a new command, copy a file in verify_cmds and edit it.
-After that, add the file in __init__.py
+After that, add the file in \_\_init\_\_.py
 
 You don't need to modify main.py to add a new command.
 Scalable design for network operations.
